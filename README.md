@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security and Computer Networks
 ------------------------------------
 
-Hi there! I'm Ashith, a passionate Cyber Security, Computer Networks and Technology enthusiast with a keen interest in building and breaking software's and systems. 💻 I specialize in C++, Python, HTML, CSS, SQL, and have experience working on projects like web development, mobile apps, machine learning. I enjoy collaborating on open-source projects, contributing to innovative solutions, and constantly expanding my skill set. 🌱 Currently, I'm focused on learning some cool network and security tools 🛠 and also a bit of 日本語 🔰 ✨ Let's build something amazing together! Feel free to check out my repositories or connect with me for collaboration opportunities. ---
+Hi there! I'm Ashith, a passionate Cyber Security, Computer Networks and Technology enthusiast with a keen interest in building and breaking software's and systems. 💻 I specialize in C++, Python, HTML, CSS, SQL, and have experience working on projects like web development, mobile apps, machine learning. I enjoy collaborating on open-source projects, contributing to innovative solutions, and constantly expanding my skill set. 
+
+🌱 Currently, I'm focused on learning some cool network and security tools 🛠 and also a bit of 日本語 🔰 ✨ Let's build something amazing together! Feel free to check out my repositories or connect with me for collaboration opportunities.
+
+---
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ashithk04@gmail.com](mailto:ashithk04@gmail.com)
